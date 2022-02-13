@@ -12,9 +12,6 @@ You are asked to click on **Dessert**, not Desert.
 
 Upon your click on a button, you earn or lose a point, and all buttons are re-generated at random locations.
 
-## Skills Used
-Java, JavaFX, Makefile
-
 ## Features
 
 The following **core** functionality is completed:
@@ -23,6 +20,10 @@ The following **core** functionality is completed:
 * [X] User score upon click on button
 * [] Time limit
 * [X] Exit
+
+## Skills Used
+
+Java, JavaFX, Makefile
 
 ## Notes
 
