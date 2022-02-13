@@ -15,10 +15,14 @@ Once you click a button, all the existing buttons disappear, and then new ones a
 ## Skills Used
 Java, JavaFX, Makefile
 
-## Notes
+## Features
 
 The following **core** functionality is completed:
 
 * [X] Buttons appear at **random** locations
 * [X] User score upon click on button
 * [X] Exit
+
+## Notes
+
+N/A
