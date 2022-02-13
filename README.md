@@ -10,7 +10,7 @@ Developed by: **Eric Choi**
 
 You are asked to click on **Dessert**, not Desert.
 
-Once you click a button, all the existing buttons disappear, and then new ones are re-generated at random locations.
+Upon your click on a button, you earn or lose a point, and all buttons are re-generated at random locations.
 
 ## Skills Used
 Java, JavaFX, Makefile
@@ -21,6 +21,7 @@ The following **core** functionality is completed:
 
 * [X] Buttons appear at **random** locations
 * [X] User score upon click on button
+* [] Time limit
 * [X] Exit
 
 ## Notes
